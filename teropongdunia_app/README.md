@@ -1,6 +1,13 @@
 # teropongduniaapp
 
-A new Flutter application.
+A new Flutter application. This repository is about my project about android application using a flutter
+we want make a mobile application about news, and the name of my application is teropong dunia
+who contribute with this project is
+M. Fikri Mulyawan    1755061006
+Muhammad Farid Ammar 1715061027
+
+my inspriation code to make this app
+https://github.com/theindianappguy/FlutterNewsApp
 
 ## Getting Started
 
