@@ -6,7 +6,7 @@ who contribute with this project is
 M. Fikri Mulyawan    1755061006
 Muhammad Farid Ammar 1715061027
 
-my inspriation code to make this app
+my inspriation coder to make this app
 https://github.com/theindianappguy/FlutterNewsApp
 
 ## Getting Started
